@@ -1,10 +1,14 @@
 
 
-\section*{Digitization Simulation}
+== Digitization Simulation ==
 
 
-The mean number of ionization electrons $\bar{N_e}$ produced in each hit is proportional to the energy deposition $\Delta E$, namely:
-$$ \bar{N_e} = \frac{\Delta E}{W_i} $$
+The mean number of ionization electrons $`\bar{N_e}`$ produced in each hit is proportional to the energy deposition $\Delta E$, namely:
+
+```math
+\bar{N_e} = \frac{\Delta E}{W_i}
+```
+
 Where $W_i$ is the ionization potential of the gas ($W_i = 46-2$ eV/pair for He/CF4 60/40)\\
 Thus, the actual number of ionization electrons ${N_e}$ is obtained  from a Poisson distribution with a mean of $\bar{N_e}$.
 The ionization electrons will diffuse in the drift region, thus/hence the coordinate $x_{hit}$ and $y_{hit}$ of each hit (and of the ionization electrons) is modified applying Gaussian fluctuations with variance: [https://arxiv.org/pdf/2007.00608.pdf]:
@@ -41,4 +45,4 @@ The parameters used for the simulation are shown in Table \ref{table:first_set_L
 
 
 
-\section*{Saturation Effect}
+== Saturation Effect ==
