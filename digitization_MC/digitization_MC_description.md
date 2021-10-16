@@ -92,7 +92,7 @@ The production of photons is obtained from a Poisson distribution with mean valu
 ### Photons collection
 
 
-The number of photons N_{\gamma} hitting the sensor depends on the solid angle ratio $`\Omega`$, namely:
+The number of photons $`N_{\gamma}`$ hitting the sensor depends on the solid angle ratio $`\Omega`$, namely:
 
 ```math  
 N_{\gamma} = N_{\gamma}^{tot} \cdot \Omega
