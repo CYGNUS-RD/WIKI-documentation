@@ -1,6 +1,6 @@
 # Structure
 ## Filename
-type of file\n
-purpose
+type of file__
+purpose__
 author
 input
