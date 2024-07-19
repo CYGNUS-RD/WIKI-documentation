@@ -1,10 +1,11 @@
 | Author    | Date   |Type  | Title  | Conference  | Conference Link  | Google Slides  | Uploaded to this folder  |
 |:----------------:|:----------------:|:---------------:|:--------:|:-------------:|:------------------:|:----------------:|:--------------------------:|
-| D.J.G.Marques | 12/07/2024 | Talk | Directional Dark Matter searches with CYGNO | IDM2024| <https://agenda.infn.it/event/39713/timetable/?view=standard#210-the-cygno-experiment-a-dir> | <https://docs.google.com/presentation/d/1LZkUIXQ8U112qOqKg4EvstHSgrLvWL-lWtpPzSkmDTs/edit#slide=id.g244173181c5_0_3> | 1 |
+|     |    |  |   |   |    |    |    |
+|  M. D'Astolfo   | 18/07/2024   | Parallel Talk |  THE CYGNO EXPERIMENT | ICHEP24  |  <https://indi.to/BLBtB>  |    | 1   |
+| D.J.G.Marques | 12/07/2024 | Parallel Talk | Directional Dark Matter searches with CYGNO | IDM2024| <https://agenda.infn.it/event/39713/timetable/?view=standard#210-the-cygno-experiment-a-dir> | <https://docs.google.com/presentation/d/1LZkUIXQ8U112qOqKg4EvstHSgrLvWL-lWtpPzSkmDTs/edit#slide=id.g244173181c5_0_3> | 1 |
 | G.Dho | 12/07/2024 | Poster | Optimisation of gas composition and amplification stage for the CYGNO/INITIUM experiment | IDM2024| <https://agenda.infn.it/event/39713/contributions/234132/> |  | 1 |
-|D.Pinci| 03/07/2024 | Talk |CYGNO, an optically readout TPC for low energy events study | iWoRiD24 | <https://indico.cern.ch/event/1284854/contributions/5989439/> ||1|
+|D.Pinci| 03/07/2024 | Invited Talk |CYGNO, an optically readout TPC for low energy events study | iWoRiD24 | <https://indico.cern.ch/event/1284854/contributions/5989439/> ||1|
 | D.Pinci    |  30/05/2024  | Poster |  The CYGNO experiment | PM2024 | <https://agenda.infn.it/event/37033/timetable/?view=standard#75-cygno-an-optically-readout>      |    |  0  |
-|  E.Baracchini   |  16/05/2024  | Talk | Directional Dark Matter searches with the CYGNO/INITIUM  Project  | Conference on Science at the Sanford Underground Research Facility  | <https://indico.sanfordlab.org/event/68/contributions/1517/>   |    | 0   |
+|  E.Baracchini   |  16/05/2024  | Invited Talk | Directional Dark Matter searches with the CYGNO/INITIUM  Project  | Conference on Science at the Sanford Underground Research Facility  | <https://indico.sanfordlab.org/event/68/contributions/1517/>   |    | 0   |
 | R.Antonietti    |  04/04/2024  | Talk | IFAE2024  | L'esperimento CYGNO  | <https://agenda.infn.it/event/38127/timetable/?view=standard#167-lesperimento-cygno>   |    |   1 |
 |  G.Dho   |  16/04/2024  | Talk |  TERASCALE24 | The CYGNO Experiment  | <https://indico.in2p3.fr/event/31806/contributions/136297/>   |    |  1  |
-|     |    |  |   |   |    |    |    |
