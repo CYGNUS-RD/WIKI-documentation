@@ -5,6 +5,9 @@ purpose <br />
 author <br />
 input <br />
 
+# Emanuele_Regression
+Folder containing different files from Emanuele's regression analysis. Mostly unknown and possibly incomplete. Waiting for Emanuele
+
 # createcsv_example.ipynb
 
 File language: python notebook which works on cloud  <br />
