@@ -1,6 +1,7 @@
 | Author    | Date   |Type  | Title  | Conference  | Conference Link  | Google Slides  | Uploaded to this folder  |
 |:----------------:|:----------------:|:---------------:|:--------:|:-------------:|:------------------:|:----------------:|:--------------------------:|
 |     |    |  |   |   |    |    |    |
+|  E. Baracchini   | 02/09/2024   | Invited Talk |  The CYGNO/INTIUM optical readout TPC for directional Dark Matter searches | ISPR-16  |  <https://isrp16lisbon.com/>  |  <https://drive.google.com/file/d/10r4uWWjbpL6NVJIC8oP_qfFpAsSzAatN/view>  | 0   |
 |  M. D'Astolfo   | 18/07/2024   | Parallel Talk |  THE CYGNO EXPERIMENT | ICHEP24  |  <https://indi.to/BLBtB>  |    | 1   |
 | D.J.G.Marques | 12/07/2024 | Parallel Talk | Directional Dark Matter searches with CYGNO | IDM2024| <https://agenda.infn.it/event/39713/timetable/?view=standard#210-the-cygno-experiment-a-dir> | <https://docs.google.com/presentation/d/1LZkUIXQ8U112qOqKg4EvstHSgrLvWL-lWtpPzSkmDTs/edit#slide=id.g244173181c5_0_3> | 1 |
 | G.Dho | 12/07/2024 | Poster | Optimisation of gas composition and amplification stage for the CYGNO/INITIUM experiment | IDM2024| <https://agenda.infn.it/event/39713/contributions/234132/> |  | 1 |
