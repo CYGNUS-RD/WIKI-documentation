@@ -1,8 +1,8 @@
 | Author    | Date   |Type  | Title  | Conference  | Conference Link  | Google Slides  | Uploaded to this folder  |
 |:----------------:|:----------------:|:---------------:|:--------:|:-------------:|:------------------:|:----------------:|:--------------------------:|
 |    |    |  |   |   |    |    |    |
-|   D. Fiorina  |   28/08/2025 | Talk | The CYGNO experiment, a Gaseous TPC for directional Dark Matter searches  |  TAUPP25 |  <https://indico-cdex.ep.tsinghua.edu.cn/event/175/>  |    |  0  |
-|   S. Torelli  |  28/08/2025  | Talk | Detecting Solar neutrinos with the CYGNO gas TPC  | TAUPP25  |  <https://indico-cdex.ep.tsinghua.edu.cn/event/175/>  |    |  0  |
+|   D. Fiorina  |   28/08/2025 | Talk | The CYGNO experiment, a Gaseous TPC for directional Dark Matter searches  |  TAUPP25 |  <https://indico-cdex.ep.tsinghua.edu.cn/event/175/>  |    |  1  |
+|   S. Torelli  |  28/08/2025  | Talk | Detecting Solar neutrinos with the CYGNO gas TPC  | TAUPP25  |  <https://indico-cdex.ep.tsinghua.edu.cn/event/175/>  |    |  1  |
 |   D. Fiorina  |  10/07/2025  | Talk | The CYGNO experiment  |  EPS-HEP25 |  <https://indico.in2p3.fr/event/33627/contributions/154648/>  |    |  1  |
 |  G. Dho   |  15/05/2025  | Seminar |  Importance of directionality in the search for dark matter below the neutrino fog. The CYGNO Experiment | Warsar Seminar  |    |    |  1  |
 |  S. Piacentini   |  20/02/2025  |  Talk | LIME: underground operation of a gaseous TPC with optical readout |  VCI25 |  <https://indico.cern.ch/event/1386009/contributions/6279073/>  |    |  0  |

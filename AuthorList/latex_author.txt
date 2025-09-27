@@ -1,66 +1,58 @@
-\author[1,2]{R. Antonietti \orcidlink{0009-0009-2568-8247}}
-\author[3,4]{E. Baracchini \orcidlink{0000-0003-4686-128X}}
-\author[5]{L. Benussi \orcidlink{0000-0002-2363-8889}}
-\author[5]{S. Bianco \orcidlink{0000-0002-8300-4124}}
-\author[5]{R. Campagnola \orcidlink{0000-0003-2987-6623}}
-\author[5]{C. Capoccia \orcidlink{0009-0008-5919-3130}}
-\author[5,6]{M. Caponero \orcidlink{0000-0002-5728-3123}}
-\author[7]{L.G. Carvalho \orcidlink{0009-0003-5836-4771}}
-\author[8,9]{G. Cavoto \orcidlink{0000-0003-2161-918X}}
-\author[5]{I.A. Costa \orcidlink{0000-0002-3064-8305}}
-\author[5]{A. Croce}
-\author[3,4]{M. D'Astolfo \orcidlink{0009-0000-9817-6693}}
-\author[9]{G. D'Imperio \orcidlink{0000-0002-2945-0983}}
-\author[5]{E. Dan\`e \orcidlink{0000-0002-7220-9984}}
-\author[5]{G. Dho \orcidlink{0000-0001-9454-9894}}
-\author[3,4]{F. Di Giambattista \orcidlink{0000-0001-7831-3961}}
-\author[9]{E. Di Marco \orcidlink{0000-0002-5920-2438}}
-\author[10]{J.M.F. dos Santos \orcidlink{0000-0002-8841-6523}}
-\author[3,4]{D. Fiorina \orcidlink{0000-0002-7104-257X}}
-\author[9]{F. Iacoangeli \orcidlink{0000-0003-0808-585}}
-\author[3,4]{Z.u. Islam \orcidlink{0000-0003-4611-839X}}
+\author[1]{F.D. Amaro \orcidlink{0000-0001-7315-0550}}
+\author[2,3]{R. Antonietti \orcidlink{0009-0009-2568-8247}}
+\author[4,5]{E. Baracchini \orcidlink{0000-0003-4686-128X}}
+\author[6]{L. Benussi \orcidlink{0000-0002-2363-8889}}
+\author[6]{S. Bianco \orcidlink{0000-0002-8300-4124}}
+\author[6]{C. Capoccia \orcidlink{0009-0008-5919-3130}}
+\author[6,7]{M. Caponero \orcidlink{0000-0002-5728-3123}}
+\author[8]{L.G.M de Carvalho \orcidlink{0009-0003-5836-4771}}
+\author[9,10]{G. Cavoto \orcidlink{0000-0003-2161-918X}}
+\author[6]{I.A. Costa \orcidlink{0000-0002-3064-8305}}
+\author[6]{A. Croce}
+\author[4,5]{M. D'Astolfo \orcidlink{0009-0000-9817-6693}}
+\author[10]{G. D'Imperio \orcidlink{0000-0002-2945-0983}}
+\author[6]{E. Dan\`e \orcidlink{0000-0002-7220-9984}}
+\author[6]{G. Dho \orcidlink{0000-0001-9454-9894}}
+\author[10]{E. Di Marco \orcidlink{0000-0002-5920-2438}}
+\author[1]{J.M.F. dos Santos \orcidlink{0000-0002-8841-6523}}
+\author[4,5]{D. Fiorina \orcidlink{0000-0002-7104-257X}}
+\author[10]{F. Iacoangeli \orcidlink{0000-0003-0808-585}}
+\author[4,5]{Z. Islam \orcidlink{0000-0003-4611-839X}}
 \author[11]{E. Kemp \orcidlink{0000-0001-5311-1300}}
-\author[3,4]{H. P. Lima Jr \orcidlink{0000-0001-7398-3237}}
-\author[5]{G. Maccarrone \orcidlink{0000-0002-7234-9522}}
-\author[10]{R.D.P. Mano \orcidlink{0000-0003-2920-7067}}
-\author[12]{R.R. Marcelo Gregorio}
-\author[3,4]{D. J. G. Marques \orcidlink{0000-0002-0013-6341}}
-\author[5]{G. Mazzitelli \orcidlink{0000-0003-2830-4359}}
-\author[12]{A.G. McLean}
-\author[1,2]{P. Meloni \orcidlink{0009-0001-7634-370X}}
-\author[8,9]{A. Messina \orcidlink{0000-0003-1195-6780}}
-\author[10]{C.M.B. Monteiro \orcidlink{0000-0002-1912-2804}}
-\author[7]{R.A. Nobrega \orcidlink{0000-0001-5199-308X}}
-\author[7]{I.F. Pains \orcidlink{0009-0004-0851-6308}}
-\author[5]{E. Paoletti}
-\author[5]{L. Passamonti}
-\author[1,2]{F. Petrucci \orcidlink{0000-0002-5278-2206}}
-\author[3,4]{S. Piacentini \orcidlink{0000-0002-1256-7149}}
-\author[5]{D. Piccolo}
-\author[5]{D. Pierluigi}
-\author[9]{D. Pinci \orcidlink{0000-0002-7224-9708}}
-\author[3,4]{A. Prajapati \orcidlink{0000-0002-4620-440X}}
-\author[9]{F. Renga \orcidlink{0000-0001-8129-8504}}
-\author[10]{R.J.d.C. Roque \orcidlink{0000-0003-2579-8103}}
-\author[5]{F. Rosatelli}
-\author[5]{A. Russo}
-\author[5,13]{G. Saviano}
-\author[10]{P.A.O.C. Silva \orcidlink{0000-0002-1957-2274}}
-\author[]{N.J. Spooner}
-\author[5]{R. Tesauro \orcidlink{0009-0006-0722-5896}}
-\author[5]{S. Tomassini \orcidlink{0000-0001-7290-2028}}
-\author[3,4]{S. Torelli \orcidlink{0000-0003-3622-3524}}
-\author[8,9]{D. Tozzi}
-\affil[1]{Dipartimento di Matematica e Fisica; Universit\`a Roma TRE; 00146; Roma; Italy}
-\affil[2]{Istituto Nazionale di Fisica Nucleare; Sezione di Roma Tre; 00146; Rome; Italy}
-\affil[3]{Gran Sasso Science Institute; 67100; L'Aquila; Italy}
-\affil[4]{Istituto Nazionale di Fisica Nucleare; Laboratori Nazionali del Gran Sasso; 67100; Assergi; Italy}
-\affil[5]{Istituto Nazionale di Fisica Nucleare; Laboratori Nazionali di Frascati; 00044; Frascati; Italy}
-\affil[6]{ENEA Centro Ricerche Frascati; 00044; Frascati; Italy}
-\affil[7]{Universidade Federal de Juiz de Fora; Faculdade de Engenharia; 36036-900; Juiz de Fora; MG; Brasil}
-\affil[8]{Dipartimento di Fisica; Universit\`a di Roma Sapienza; 00185; Roma; Italy}
-\affil[9]{Istituto Nazionale di Fisica Nucleare; Sezione di Roma; 00185; Roma; Italy}
-\affil[10]{LIBPhys; Department of Physics; University of Coimbra; 3004-516 Coimbra; Portugal}
+\author[4,5]{H. P. Lima Jr \orcidlink{0000-0001-7398-3237}}
+\author[6]{G. Maccarrone \orcidlink{0000-0002-7234-9522}}
+\author[1]{R.D.P. Mano \orcidlink{0000-0003-2920-7067}}
+\author[4,5]{D. J. G. Marques \orcidlink{0000-0002-0013-6341}}
+\author[6]{G. Mazzitelli \orcidlink{0000-0003-2830-4359}}
+\author[2,3]{P. Meloni \orcidlink{0009-0001-7634-370X}}
+\author[9,10]{A. Messina \orcidlink{0000-0003-1195-6780}}
+\author[1]{C.M.B. Monteiro \orcidlink{0000-0002-1912-2804}}
+\author[8]{R.A. Nobrega \orcidlink{0000-0001-5199-308X}}
+\author[8]{I.F. Pains \orcidlink{0009-0004-0851-6308}}
+\author[6]{E. Paoletti}
+\author[2,3]{F. Petrucci \orcidlink{0000-0002-5278-2206}}
+\author[4,5]{S. Piacentini \orcidlink{0000-0002-1256-7149}}
+\author[6]{D. Pierluigi}
+\author[10]{D. Pinci \orcidlink{0000-0002-7224-9708}}
+\author[10]{F. Renga \orcidlink{0000-0001-8129-8504}}
+\author[1]{R.J.C. Roque \orcidlink{0000-0003-2579-8103}}
+\author[6]{A. Russo}
+\author[6,12]{G. Saviano}
+\author[1]{P.A.O.C. Silva \orcidlink{0000-0002-1957-2274}}
+\author[13]{N.J. Spooner}
+\author[6]{R. Tesauro \orcidlink{0009-0006-0722-5896}}
+\author[6]{S. Tomassini \orcidlink{0000-0001-7290-2028}}
+\author[9,10]{D. Tozzi \orcidlink{0009-0001-9206-7354}}
+\affil[1]{LIBPhys; Department of Physics; University of Coimbra; 3004-516 Coimbra; Portugal}
+\affil[2]{Dipartimento di Matematica e Fisica; Universit\`a Roma TRE; 00146; Roma; Italy}
+\affil[3]{Istituto Nazionale di Fisica Nucleare; Sezione di Roma Tre; 00146; Rome; Italy}
+\affil[4]{Gran Sasso Science Institute; 67100; L'Aquila; Italy}
+\affil[5]{Istituto Nazionale di Fisica Nucleare; Laboratori Nazionali del Gran Sasso; 67100; Assergi; Italy}
+\affil[6]{Istituto Nazionale di Fisica Nucleare; Laboratori Nazionali di Frascati; 00044; Frascati; Italy}
+\affil[7]{ENEA Centro Ricerche Frascati; 00044; Frascati; Italy}
+\affil[8]{Universidade Federal de Juiz de Fora; Faculdade de Engenharia; 36036-900; Juiz de Fora; MG; Brasil}
+\affil[9]{Dipartimento di Fisica; Universit\`a di Roma Sapienza; 00185; Roma; Italy}
+\affil[10]{Istituto Nazionale di Fisica Nucleare; Sezione di Roma; 00185; Roma; Italy}
 \affil[11]{Universidade Estadual de Campinas  - UNICAMP;  Campinas 13083-859; SP; Brazil}
-\affil[12]{Department of Physics and Astronomy; University of Sheffield; Sheffield; S3 7RH; UK}
-\affil[13]{Dipartimento di Ingegneria Chimica; Materiali e Ambiente; Sapienza Universit\`a di Roma; 00185; Roma; Italy}
+\affil[12]{Dipartimento di Ingegneria Chimica; Materiali e Ambiente; Sapienza Universit\`a di Roma; 00185; Roma; Italy}
+\affil[13]{Department of Physics and Astronomy; University of Sheffield; Sheffield; S3 7RH; UK}
