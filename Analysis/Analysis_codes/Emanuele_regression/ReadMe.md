@@ -10,4 +10,4 @@ Files languages: python and C++ <br />
 Author: Emanuele di Marco <br />
 ### Usage
 Purpose: Not easy to discern. These folders contain files for the multivariate regression and to correct, plot them. Mostly related to AmBe and older LIME background runs. <br />
-Input: Unknown. As well as usage
+Input: Unknown. As well as usage.
