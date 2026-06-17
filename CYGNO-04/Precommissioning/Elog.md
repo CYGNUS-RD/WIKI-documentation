@@ -53,5 +53,36 @@ To crosscheck the correct IP assignment do:
 cat /var/lib/misc/dnsmasq.leases
 ```
 
+### Step 3: make it permanent (aka it stays after reboot)
+
+Change netplan config file `/etc/netplan/01-network-manager-all.yaml` as follows:
+
+```
+sudo cp /etc/netplan/01-network-manager-all.yaml /etc/netplan/01-network-manager-all.yaml.bak
+sudo nano /etc/netplan/01-network-manager-all.yaml
+```
+
+and the file content should be:
+
+```
+network:
+  version: 2
+  renderer: NetworkManager
+
+  ethernets:
+    eno1:
+      dhcp4: false
+      addresses:
+        - 10.50.0.1/24
+
+    eno2:
+      dhcp4: true
+```
+
+For the DHCP:
+```
+sudo systemctl enable dnsmasq
+sudo systemctl restart dnsmasq
+```
 Note: the `10.50.0.114` (MAC address `3c:ec:ef:6c:e2:04`) is the internal remote control interface
 
