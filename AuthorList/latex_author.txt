@@ -6,7 +6,6 @@
 \author[6]{L.G.M de Carvalho \orcidlink{0009-0003-5836-4771}}
 \author[7,8]{G. Cavoto \orcidlink{0000-0003-2161-918X}}
 \author[4]{I.A. Costa \orcidlink{0000-0002-3064-8305}}
-\author[4]{A. Croce}
 \author[2,3]{M. D'Astolfo \orcidlink{0009-0000-9817-6693}}
 \author[8]{G. D'Imperio \orcidlink{0000-0002-2945-0983}}
 \author[4]{G. Dho \orcidlink{0000-0001-9454-9894}}
@@ -14,28 +13,25 @@
 \author[1]{J.M.F. dos Santos \orcidlink{0000-0002-8841-6523}}
 \author[2,3]{D. Fiorina \orcidlink{0000-0002-7104-257X}}
 \author[8]{F. Iacoangeli \orcidlink{0000-0003-0808-585}}
-\author[2,3]{Z. Islam \orcidlink{0000-0003-4611-839X}}
-\author[2,2]{H. P. Lima Jr \orcidlink{0000-0001-7398-3237}}
+\author[9,2]{H. P. Lima Jr \orcidlink{0000-0001-7398-3237}}
 \author[4]{G. Maccarrone \orcidlink{0000-0002-7234-9522}}
-\author[1]{R.D.P. Mano \orcidlink{0000-0003-2920-7067}}
-\author[2,3]{D. J. G. Marques \orcidlink{0000-0002-0013-6341}}
-\author[4]{G. Mazzitelli \orcidlink{0000-0003-2830-4359}}
-\author[9,10]{P. Meloni \orcidlink{0009-0001-7634-370X}}
+\author[10,11]{P. Meloni \orcidlink{0009-0001-7634-370X}}
 \author[7,8]{A. Messina \orcidlink{0000-0003-1195-6780}}
 \author[1]{C.M.B. Monteiro \orcidlink{0000-0002-1912-2804}}
 \author[6]{R.A. Nobrega \orcidlink{0000-0001-5199-308X}}
+\author[2,2]{G. M. Oppedisano}
 \author[6]{I.F. Pains \orcidlink{0009-0004-0851-6308}}
 \author[4]{E. Paoletti}
-\author[9,10]{F. Petrucci \orcidlink{0000-0002-5278-2206}}
+\author[10,11]{F. Petrucci \orcidlink{0000-0002-5278-2206}}
 \author[2,3]{S. Piacentini \orcidlink{0000-0002-1256-7149}}
 \author[4]{D. Pierluigi}
 \author[8]{D. Pinci \orcidlink{0000-0002-7224-9708}}
-\author[8]{F. Renga \orcidlink{0000-0001-8129-8504}}
 \author[4]{A. Russo}
-\author[4,11]{G. Saviano}
+\author[4,12]{G. Saviano}
+\author[2,3]{F.F. Scamporlino}
 \author[1]{P.A.O.C. Silva \orcidlink{0000-0002-1957-2274}}
 \author[1]{R.C. Sousa \orcidlink{0009-0000-4079-5213}}
-\author[12]{N. J. C. Spooner}
+\author[13]{N. J. C. Spooner}
 \author[4]{R. Tesauro \orcidlink{0009-0006-0722-5896}}
 \author[4]{S. Tomassini \orcidlink{0000-0001-7290-2028}}
 \affil[1]{LIBPhys; Department of Physics; University of Coimbra; 3004-516 Coimbra; Portugal}
@@ -46,7 +42,8 @@
 \affil[6]{Universidade Federal de Juiz de Fora; Faculdade de Engenharia; 36036-900; Juiz de Fora; MG; Brasil}
 \affil[7]{Dipartimento di Fisica; Universit\`a di Roma Sapienza; 00185; Roma; Italy}
 \affil[8]{Istituto Nazionale di Fisica Nucleare; Sezione di Roma; 00185; Roma; Italy}
-\affil[9]{Dipartimento di Matematica e Fisica; Universit\`a Roma TRE; 00146; Roma; Italy}
-\affil[10]{Istituto Nazionale di Fisica Nucleare; Sezione di Roma Tre; 00146; Rome; Italy}
-\affil[11]{Dipartimento di Ingegneria Chimica; Materiali e Ambiente; Sapienza Universit\`a di Roma; 00185; Roma; Italy}
-\affil[12]{Department of Physics and Astronomy; University of Sheffield; Sheffield; S3 7RH; UK}
+\affil[9]{Centro Brasileiro de Pesquisas Físicas; Rio de Janeiro 22290-180; RJ; Brazil}
+\affil[10]{Dipartimento di Matematica e Fisica; Universit\`a Roma TRE; 00146; Roma; Italy}
+\affil[11]{Istituto Nazionale di Fisica Nucleare; Sezione di Roma Tre; 00146; Rome; Italy}
+\affil[12]{Dipartimento di Ingegneria Chimica; Materiali e Ambiente; Sapienza Universit\`a di Roma; 00185; Roma; Italy}
+\affil[13]{Department of Physics and Astronomy; University of Sheffield; Sheffield; S3 7RH; UK}
