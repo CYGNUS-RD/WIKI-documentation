@@ -1,40 +1,49 @@
 # LaTeX Author List Generator
 
-Generates a LaTeX author list from the [CYGNO RL author sheet](https://docs.google.com/spreadsheets/d/1eEDZST-gUF1IELlRzGcLxuxVkPNnKTLbI-eTdULwKU0/edit?usp=sharing), sorted alphabetically by last name. Also produces a `.png` image of the author list with affiliation numbers.
+Generates the CYGNO LaTeX author list from the [CYGNO RL author sheet](https://docs.google.com/spreadsheets/d/1eEDZST-gUF1IELlRzGcLxuxVkPNnKTLbI-eTdULwKU0/edit?usp=sharing), sorted alphabetically by last name.
+
+Outputs:
+
+* `latex_author.txt` — ready-to-use `\author[...]` and `\affil[...]` entries
+* `authors.png` — author list with affiliation indices
 
 ## Usage
 
-### Read directly from Google Sheets (recommended)
+Recommended:
+
 ```bash
 python3 GetAuthorList.py --gsheet
 ```
-No download needed. Uses the default CYGNO sheet. Pass a custom URL to use a different sheet:
+
+A different Google Sheet can be specified with:
+
 ```bash
-python3 GetAuthorList.py --gsheet "https://docs.google.com/spreadsheets/d/<ID>/edit?usp=sharing"
+python3 GetAuthorList.py --gsheet "https://docs.google.com/spreadsheets/d/<ID>/edit"
 ```
 
-### Read from a local CSV
-Download the sheet as `.csv` and run:
+A local CSV can also be used:
+
 ```bash
-python3 GetAuthorList.py --csv <csvName>.csv
+python3 GetAuthorList.py --csv <file>.csv
 ```
 
-## Flags
+## Options
 
-| Flag | Description |
-|------|-------------|
-| `--gsheet [URL]` | Read from Google Sheets (default CYGNO sheet if no URL given) |
-| `--csv <file>` | Read from a local CSV file |
-| `--gid <id>` | Select a specific sheet tab by GID (default: `0`) |
-| `--out` | Save the LaTeX output to `latex_author.txt` |
-| `--NoOrcid` | Omit ORCID links from the output (not recommended) |
-| `--image_file <file>` | Path for the output image (default: `authors.png`) |
-| `--debug` | Print column names and sample rows to diagnose empty output |
+| Flag                  | Description                            |
+| --------------------- | -------------------------------------- |
+| `--gsheet [URL]`      | Read from Google Sheets                |
+| `--csv <file>`        | Read from a local CSV                  |
+| `--gid <id>`          | Select sheet tab by GID (default: `0`) |
+| `--NoOrcid`           | Omit ORCID links                       |
+| `--image_file <file>` | Set output image path                  |
+| `--debug`             | Print diagnostic information           |
 
-## Output
+## Automatic update
 
-- **Terminal / `latex_author.txt`** — ready-to-paste `\author[...]` and `\affil[...]` LaTeX entries
-- **`authors.png`** — landscape image of the full author list with affiliation indices
+GitHub Actions runs the generator automatically every Monday at 08:00 Europe/Rome.
 
-## Test
-Working example on Overleaf: <https://www.overleaf.com/read/pyxdxswqpgsm#cbe7d7>
+If the generated `latex_author.txt` or `authors.png` changes, the updated files are automatically committed to the repository. The workflow can also be run manually from the **Actions** tab.
+
+## Example
+
+Working Overleaf example: https://www.overleaf.com/read/pyxdxswqpgsm#cbe7d7
