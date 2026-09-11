@@ -40,8 +40,9 @@ dhcp-range=10.50.0.100,10.50.0.150,255.255.255.0,12h
 
 dhcp-host=00:80:a3:e1:9c:01,10.50.0.110
 dhcp-host=00:90:fb:66:2f:2c,10.50.0.115
+dhcp-host=00:50:c2:46:d4:16,10.50.0.120
 ```
-where `00:80:a3:e1:9c:01` is the MAC address of the ISEG and the `00:90:fb:66:2f:2c` is the MAC address of the CAEN HV crate.
+where `00:80:a3:e1:9c:01` is the MAC address of the ISEG, the `00:90:fb:66:2f:2c` is the MAC address of the CAEN HV crate, and `00:50:c2:46:d4:16` is the MAC address of the SCS.
 
 Now restart the `DHCP` server:
 ```
