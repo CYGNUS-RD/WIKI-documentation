@@ -1,14 +1,11 @@
 | Author    | Date   |Type  | Title  | Conference  | Conference Link  | Google Slides  | Uploaded to this folder  |
 |:----------------:|:----------------:|:---------------:|:--------:|:-------------:|:------------------:|:----------------:|:--------------------------:|
 |    |    |  |   |   |    |    |    |
-|  M. D'Astolfo  | 30/06/2026   | Talk | Eco-friendly gas test for optically readout TPCs  | DRD1 collaboration meeting |  https://indico.cern.ch/event/1662850/contributions/7137962/   |    |    |
+|  D. Fiorina  | 31/08/2026   | Talk | Saturation effect in CYGNO GEM-based detectors and correction at high gain  | 9th International Conference on Micro-Pattern Gaseous Detectors, MPGD2026 |  https://indico.cern.ch/event/1473492/contributions/7106084/   |    |  1  |
+|  S. Piacentini  | 02/09/2026   | Talk | The CYGNO experiment  | 9th International Conference on Micro-Pattern Gaseous Detectors, MPGD2026 |  https://indico.cern.ch/event/1473492/overview   |    |  0  |
+|  M. D'Astolfo  | 30/06/2026   | Talk | Eco-friendly gas test for optically readout TPCs  | DRD1 collaboration meeting |  https://indico.cern.ch/event/1662850/contributions/7137962/   |    |  0  |
 |  D. Fiorina  |  23/03/2026  | Talk | The CYGNO experiment  | CYGNUS26 |   https://indico.global/event/15704/contributions/142321/ |    |  0  |
 |  G.Dho  |  23/03/2026  | Talk | Space-charge saturation effect and correction at high gain in CYGNO GEM-based detectors  | CYGNUS26 |   https://indico.global/event/15704/contributions/142319/ |    |  0  |
-|   F.Peroni  |   28/08/2025 | Talk | The CYGNO experiment, a Gaseous TPC for directional Dark Matter searches  |  CYGNUS26 |  <https://indico-cdex.ep.tsinghua.edu.cn/event/175/>  |    |  0  |
-|  M. D'Astolfo  |  23/03/2026  | Talk | Underground environmental neutron flux measurement with the CYGNO project  | CYGNUS26 |   https://indico.global/event/15704/contributions/142318/ |    |  0  |
-|  E.Baracchini  |  24/03/2026  | Talk | First Optical Observation of Negative Ion Drift at Atmospheric Pressure  | CYGNUS26 |   https://indico.global/event/15704/contributions/142316/ |    |  0  |
-|  G.M.Oppedissano  |  24/03/2026  | Talk | Fast reconstruction-based ROI triggering via anomaly detection in the CYGNO optical TPC  | CYGNUS26 |   https://indico.global/event/15704/contributions/142341/ |    |  0  |
-|  S.Piacentini  |  24/03/2026  | Talk | Innovative DAQ system for the CYGNO-04 experiment| CYGNUS26   |   https://indico.global/event/15704/contributions/142344/ |    |  0  |
 |  G.Dho |  24/03/2026  | Poster | Diffusion deconvolution method and fiducialization for the CYGNO experiment  | CYGNUS26  |   https://indico.global/event/15704/contributions/142357/ |    |  0  |
 |  M. D'Astolfo |  24/03/2026  | Poster | Dark Matter Sensitivity of the CYGNO Detector with eco-friendly Gas Mixtures |   CYGNUS26  | https://indico.global/event/15704/contributions/142360/ |  |  0  |
 |   S. Torelli  |  28/08/2025  | Talk | Detecting Solar neutrinos with the CYGNO gas TPC  | TAUPP25  |  <https://indico-cdex.ep.tsinghua.edu.cn/event/175/>  |    |  1  |
