@@ -12,14 +12,14 @@
 \author[8]{E. Di Marco \orcidlink{0000-0002-5920-2438}}
 \author[1]{J.M.F. dos Santos \orcidlink{0000-0002-8841-6523}}
 \author[2,3]{D. Fiorina \orcidlink{0000-0002-7104-257X}}
-\author[8]{F. Iacoangeli \orcidlink{0000-0003-0808-585}}
+\author[8]{F. Iacoangeli \orcidlink{0000-0003-0808-5857}}
 \author[9,2]{H. P. Lima Jr \orcidlink{0000-0001-7398-3237}}
 \author[4]{G. Maccarrone \orcidlink{0000-0002-7234-9522}}
 \author[10,11]{P. Meloni \orcidlink{0009-0001-7634-370X}}
 \author[7,8]{A. Messina \orcidlink{0000-0003-1195-6780}}
 \author[1]{C.M.B. Monteiro \orcidlink{0000-0002-1912-2804}}
 \author[6]{R.A. Nobrega \orcidlink{0000-0001-5199-308X}}
-\author[2,2]{G. M. Oppedisano}
+\author[2,2]{G. M. Oppedisano \orcidlink{0009-0001-8801-2393}}
 \author[6]{I.F. Pains \orcidlink{0009-0004-0851-6308}}
 \author[4]{E. Paoletti}
 \author[10,11]{F. Petrucci \orcidlink{0000-0002-5278-2206}}
@@ -28,8 +28,7 @@
 \author[8]{D. Pinci \orcidlink{0000-0002-7224-9708}}
 \author[4]{A. Russo}
 \author[4,12]{G. Saviano}
-\author[2,3]{F.F. Scamporlino}
-\author[1]{P.A.O.C. Silva \orcidlink{0000-0002-1957-2274}}
+\author[2,3]{F.F. Scamporlino \orcidlink{0009-0000-2937-993X}}
 \author[1]{R.C. Sousa \orcidlink{0009-0000-4079-5213}}
 \author[13]{N. J. C. Spooner}
 \author[4]{R. Tesauro \orcidlink{0009-0006-0722-5896}}
