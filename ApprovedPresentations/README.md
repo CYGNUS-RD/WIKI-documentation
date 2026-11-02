@@ -1,6 +1,6 @@
 | Author    | Date   |Type  | Title  | Conference  | Conference Link  | Google Slides  | Uploaded to this folder  |
 |:----------------:|:----------------:|:---------------:|:--------:|:-------------:|:------------------:|:----------------:|:--------------------------:|
-|    |    |  |   |   |    |    |    |
+|  G. D'Imperio  | 30/10/2026 | Talk | Low radioactivity techniques for gas detectors in rare events searches | 1st DRD1 Materials Workshop | https://indico.cern.ch/event/1736780/contributions/7303176/ |  | 1 |
 |  D. Fiorina  | 31/08/2026   | Talk | Saturation effect in CYGNO GEM-based detectors and correction at high gain  | 9th International Conference on Micro-Pattern Gaseous Detectors, MPGD2026 |  https://indico.cern.ch/event/1473492/contributions/7106084/   |    |  1  |
 |  S. Piacentini  | 02/09/2026   | Talk | The CYGNO experiment  | 9th International Conference on Micro-Pattern Gaseous Detectors, MPGD2026 |  https://indico.cern.ch/event/1473492/overview   |    |  0  |
 |  M. D'Astolfo  | 30/06/2026   | Talk | Eco-friendly gas test for optically readout TPCs  | DRD1 collaboration meeting |  https://indico.cern.ch/event/1662850/contributions/7137962/   |    |  0  |
